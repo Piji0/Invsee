@@ -1,0 +1,8 @@
+name: Invsee
+version: '${project.version}'
+main: de.piji.invsee.Main
+api-version: 1.18
+
+commands:
+  invsee:
+    description: Zeigt das Inventar eines anderen Spielers
